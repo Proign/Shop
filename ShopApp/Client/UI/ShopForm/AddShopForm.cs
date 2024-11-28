@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
 using ShopApp.DAL.Interfaces;
 using ShopApp.DAL.Repositories;
-using ShopApp.Models;
+using ShopApp.DAL.Models;
 using System;
 using System.Linq;
 using System.Threading.Tasks;

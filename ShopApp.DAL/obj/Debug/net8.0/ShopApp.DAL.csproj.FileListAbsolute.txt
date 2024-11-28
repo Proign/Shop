@@ -1,0 +1,16 @@
+C:\Users\i.prosnekov\source\repos\ShopApp (Lib fix)\ShopApp.DAL\bin\Debug\net8.0\Data\products.csv
+C:\Users\i.prosnekov\source\repos\ShopApp (Lib fix)\ShopApp.DAL\bin\Debug\net8.0\Data\shops.csv
+C:\Users\i.prosnekov\source\repos\ShopApp (Lib fix)\ShopApp.DAL\bin\Debug\net8.0\Database\InitializeDatabase.sql
+C:\Users\i.prosnekov\source\repos\ShopApp (Lib fix)\ShopApp.DAL\bin\Debug\net8.0\ShopApp.DAL.deps.json
+C:\Users\i.prosnekov\source\repos\ShopApp (Lib fix)\ShopApp.DAL\bin\Debug\net8.0\ShopApp.DAL.dll
+C:\Users\i.prosnekov\source\repos\ShopApp (Lib fix)\ShopApp.DAL\bin\Debug\net8.0\ShopApp.DAL.pdb
+C:\Users\i.prosnekov\source\repos\ShopApp (Lib fix)\ShopApp.DAL\obj\Debug\net8.0\ShopApp.DAL.csproj.AssemblyReference.cache
+C:\Users\i.prosnekov\source\repos\ShopApp (Lib fix)\ShopApp.DAL\obj\Debug\net8.0\ShopApp.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.prosnekov\source\repos\ShopApp (Lib fix)\ShopApp.DAL\obj\Debug\net8.0\ShopApp.DAL.AssemblyInfoInputs.cache
+C:\Users\i.prosnekov\source\repos\ShopApp (Lib fix)\ShopApp.DAL\obj\Debug\net8.0\ShopApp.DAL.AssemblyInfo.cs
+C:\Users\i.prosnekov\source\repos\ShopApp (Lib fix)\ShopApp.DAL\obj\Debug\net8.0\ShopApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\i.prosnekov\source\repos\ShopApp (Lib fix)\ShopApp.DAL\obj\Debug\net8.0\ShopApp.DAL.sourcelink.json
+C:\Users\i.prosnekov\source\repos\ShopApp (Lib fix)\ShopApp.DAL\obj\Debug\net8.0\ShopApp.DAL.dll
+C:\Users\i.prosnekov\source\repos\ShopApp (Lib fix)\ShopApp.DAL\obj\Debug\net8.0\refint\ShopApp.DAL.dll
+C:\Users\i.prosnekov\source\repos\ShopApp (Lib fix)\ShopApp.DAL\obj\Debug\net8.0\ShopApp.DAL.pdb
+C:\Users\i.prosnekov\source\repos\ShopApp (Lib fix)\ShopApp.DAL\obj\Debug\net8.0\ref\ShopApp.DAL.dll

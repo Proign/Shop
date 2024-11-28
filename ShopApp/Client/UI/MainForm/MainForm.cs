@@ -1,5 +1,5 @@
 ﻿using ShopApp.BLL.Services;
-using ShopApp.Models;
+using ShopApp.DAL.Models;
 using ShopApp.DAL.Repositories;
 using ShopApp.DAL.Interfaces;
 using ShopApp.Configuration;
