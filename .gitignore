@@ -3,3 +3,7 @@
 .vs/
 ShopApp/bin
 ShopApp/obj
+ShopApp.BLL/bin
+ShopApp.BLL/obj
+ShopApp.DAL/bin
+ShopApp.DAL/obj
